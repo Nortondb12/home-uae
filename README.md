@@ -9,6 +9,13 @@ wget https://raw.githubusercontent.com/Nortondb12/home-uae/main/UDPserver.sh; ch
 ```
 
 
+# SCRIPT INSTALLER V2ray upport multiple user
+```bash
+curl https://raw.githubusercontent.com/Nortondb12/home-uae/main/v2ray > v2ray; chmod 777 v2ray; ./v2ray
+```
+
+
+
 UDPclient Android SocksIP :point_right: [AQUI](https://play.google.com/store/apps/details?id=com.newtoolsworks.sockstunnel)
 
 
